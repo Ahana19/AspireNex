@@ -22,7 +22,7 @@ Link for the dataset - https://www.kaggle.com/datasets/arshid/iris-flower-datase
 ## Usage
 1. Clone the repository
    ```sh
-    https://github.com/Ahana19/FoodandDietRecommender-WebApp/tree/main  
+    https://github.com/Ahana19/AspireNex/tree/main
     ```
 2. Explore the dataset and visualize the features
 3. Train the model
@@ -61,7 +61,7 @@ Link for the dataset - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 ## Usage
 1. Clone the repository
    ```sh
-    https://github.com/Ahana19/FoodandDietRecommender-WebApp/tree/main  
+    https://github.com/Ahana19/AspireNex/tree/main 
     ```
 2.Explore the dataset and visualize the features
 3.Perform feature engineering
@@ -69,7 +69,7 @@ Link for the dataset - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 5.Evaluate the model
 
 ## Exploratory Data Analysis
-Before building the model, exploratory data analysis (EDA) is performed to understand the distribution of the data, detect outliers, and identify patterns or correlations between features. Visualization tools such as matplotlib and seaborn are used to plot graphs and charts.
+Before building the model, exploratory data analysis (EDA) is performed to understand the distribution of the data, detect outliers, and identify patterns or correlations between features. 
 
 ## Feature Engineering
 Feature engineering involves creating new features or transforming existing features to improve the performance of the machine learning model. This step includes handling missing values, scaling features, encoding categorical variables, and addressing class imbalance.
@@ -78,6 +78,6 @@ Feature engineering involves creating new features or transforming existing feat
 Machine learning algorithm is been trained on the dataset, including Logistic Regression. The training process involves splitting the dataset into training and testing sets, fitting the model on the training data, and tuning hyperparameters for optimal performance.
 
 ## Evaluation
-The performance of the model is evaluated using a metric such as  Confusion matrix  for a more detailed analysis.
+The performance of the model is evaluated using a metric such as  accuracy,precision,recall,F1-score.
 
 
